@@ -1,0 +1,1225 @@
+{
+  "success": true,
+  "error": null,
+  "data": [
+    {
+      "id": 149816,
+      "subject": {
+        "id": 731,
+        "name": "Investitsiya va investitsion faoliyat",
+        "code": "SPEE16TBK-107-6"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "11",
+        "name": "1",
+        "start_time": "08:30",
+        "end_time": "09:50"
+      },
+      "employee": {
+        "id": 392,
+        "name": "XALIQNAZAROVA G. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734307200,
+      "_week": 3813
+    },
+    {
+      "id": 149817,
+      "subject": {
+        "id": 730,
+        "name": "Soliq va soliqqa tortish",
+        "code": "SPEE16TBK-107-5"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "12",
+        "name": "2",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      },
+      "employee": {
+        "id": 198,
+        "name": "MAXAMBETOVA U. R."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734307200,
+      "_week": 3813
+    },
+    {
+      "id": 149818,
+      "subject": {
+        "id": 604,
+        "name": "Xalqaro iqtisodiyot",
+        "code": "IECO16MBK"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "13",
+        "name": "3",
+        "start_time": "11:40",
+        "end_time": "13:00"
+      },
+      "employee": {
+        "id": 366,
+        "name": "TURSI‘NOV A. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734307200,
+      "_week": 3813
+    },
+    {
+      "id": 149819,
+      "subject": {
+        "id": 733,
+        "name": "Byudjet nazorati va g'aznachilik",
+        "code": "SPEE16TBK-107-8"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "11",
+        "name": "1",
+        "start_time": "08:30",
+        "end_time": "09:50"
+      },
+      "employee": {
+        "id": 392,
+        "name": "XALIQNAZAROVA G. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734393600,
+      "_week": 3813
+    },
+    {
+      "id": 149781,
+      "subject": {
+        "id": 604,
+        "name": "Xalqaro iqtisodiyot",
+        "code": "IECO16MBK"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "12",
+        "name": "2",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      },
+      "employee": {
+        "id": 366,
+        "name": "TURSI‘NOV A. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734393600,
+      "_week": 3813
+    },
+    {
+      "id": 149780,
+      "subject": {
+        "id": 604,
+        "name": "Xalqaro iqtisodiyot",
+        "code": "IECO16MBK"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "11",
+        "name": "Ma’ruza"
+      },
+      "lessonPair": {
+        "code": "13",
+        "name": "3",
+        "start_time": "11:40",
+        "end_time": "13:00"
+      },
+      "employee": {
+        "id": 366,
+        "name": "TURSI‘NOV A. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734393600,
+      "_week": 3813
+    },
+    {
+      "id": 149820,
+      "subject": {
+        "id": 730,
+        "name": "Soliq va soliqqa tortish",
+        "code": "SPEE16TBK-107-5"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "11",
+        "name": "1",
+        "start_time": "08:30",
+        "end_time": "09:50"
+      },
+      "employee": {
+        "id": 198,
+        "name": "MAXAMBETOVA U. R."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734480000,
+      "_week": 3813
+    },
+    {
+      "id": 149785,
+      "subject": {
+        "id": 731,
+        "name": "Investitsiya va investitsion faoliyat",
+        "code": "SPEE16TBK-107-6"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "11",
+        "name": "Ma’ruza"
+      },
+      "lessonPair": {
+        "code": "12",
+        "name": "2",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      },
+      "employee": {
+        "id": 311,
+        "name": "JUBANOVA B. A."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734480000,
+      "_week": 3813
+    },
+    {
+      "id": 149787,
+      "subject": {
+        "id": 733,
+        "name": "Byudjet nazorati va g'aznachilik",
+        "code": "SPEE16TBK-107-8"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "13",
+        "name": "3",
+        "start_time": "11:40",
+        "end_time": "13:00"
+      },
+      "employee": {
+        "id": 392,
+        "name": "XALIQNAZAROVA G. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734480000,
+      "_week": 3813
+    },
+    {
+      "id": 149821,
+      "subject": {
+        "id": 604,
+        "name": "Xalqaro iqtisodiyot",
+        "code": "IECO16MBK"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "11",
+        "name": "1",
+        "start_time": "08:30",
+        "end_time": "09:50"
+      },
+      "employee": {
+        "id": 366,
+        "name": "TURSI‘NOV A. J."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734566400,
+      "_week": 3813
+    },
+    {
+      "id": 150289,
+      "subject": {
+        "id": 730,
+        "name": "Soliq va soliqqa tortish",
+        "code": "SPEE16TBK-107-5"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "11",
+        "name": "Ma’ruza"
+      },
+      "lessonPair": {
+        "code": "12",
+        "name": "2",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      },
+      "employee": {
+        "id": 123,
+        "name": "KUDAYNAZAROVA D. K."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734566400,
+      "_week": 3813
+    },
+    {
+      "id": 149783,
+      "subject": {
+        "id": 729,
+        "name": "Raqamli valyuta va moliya",
+        "code": "SPEE16TBK-107-4"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "13",
+        "name": "Amaliy"
+      },
+      "lessonPair": {
+        "code": "13",
+        "name": "3",
+        "start_time": "11:40",
+        "end_time": "13:00"
+      },
+      "employee": {
+        "id": 370,
+        "name": "TURDIEVA U. O."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734566400,
+      "_week": 3813
+    },
+    {
+      "id": 149786,
+      "subject": {
+        "id": 733,
+        "name": "Byudjet nazorati va g'aznachilik",
+        "code": "SPEE16TBK-107-8"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "11",
+        "name": "Ma’ruza"
+      },
+      "lessonPair": {
+        "code": "11",
+        "name": "1",
+        "start_time": "08:30",
+        "end_time": "09:50"
+      },
+      "employee": {
+        "id": 414,
+        "name": "TLEUMURATOV B. G."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734652800,
+      "_week": 3813
+    },
+    {
+      "id": 149782,
+      "subject": {
+        "id": 729,
+        "name": "Raqamli valyuta va moliya",
+        "code": "SPEE16TBK-107-4"
+      },
+      "semester": {
+        "id": 15,
+        "code": "17",
+        "name": "7-semestr"
+      },
+      "educationYear": {
+        "code": "2024",
+        "name": "2024-2025",
+        "current": true
+      },
+      "group": {
+        "id": 108,
+        "name": "307-21 RI qq",
+        "educationLang": {
+          "code": "13",
+          "name": "Qoraqalpoq"
+        }
+      },
+      "faculty": {
+        "id": 2,
+        "name": "Telekommunikatsiya texnologiyalari va kasbiy ta'lim",
+        "code": "391-102",
+        "structureType": {
+          "code": "11",
+          "name": "Fakultet"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": null,
+        "active": true
+      },
+      "department": {
+        "id": 25,
+        "name": "Raqamli texnologiyalar va iqtisodiyot",
+        "code": "391-102-09",
+        "structureType": {
+          "code": "12",
+          "name": "Kafedra"
+        },
+        "localityType": {
+          "code": "11",
+          "name": "Mahalliy"
+        },
+        "parent": 2,
+        "active": true
+      },
+      "auditorium": {
+        "code": 118,
+        "name": "212-xona",
+        "auditoriumType": {
+          "code": "11",
+          "name": "Ma’ruza"
+        },
+        "building": {
+          "id": 5,
+          "name": "4-Bino"
+        },
+        "volume": 20
+      },
+      "trainingType": {
+        "code": "11",
+        "name": "Ma’ruza"
+      },
+      "lessonPair": {
+        "code": "12",
+        "name": "2",
+        "start_time": "10:00",
+        "end_time": "11:20"
+      },
+      "employee": {
+        "id": 370,
+        "name": "TURDIEVA U. O."
+      },
+      "weekStartTime": 1734307200,
+      "weekEndTime": 1734739200,
+      "lesson_date": 1734652800,
+      "_week": 3813
+    }
+  ],
+  "code": 200
+}
